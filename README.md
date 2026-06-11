@@ -30,7 +30,7 @@ Each app has its own folder containing the relevant scripts:
 |---|---|
 | `install.ps1` | Installs the application silently |
 | `uninstall.ps1` | Silently removes the application |
-| `detect.ps1` | Detection rule to confirm successful installation |
+| `detection_rule.ps1` | Detection rule to confirm successful installation |
 
 ## Notes
 
